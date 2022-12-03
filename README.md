@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 ![Alt text](https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
 ![Alt text](https://cdn.dribbble.com/users/2287419/screenshots/14115184/media/7c632f195496c28994cc7453fe6c76d2.gif)
 
-### 📫 Contact me: 
+## 📫 Contact me: 
 - 📞 Phone: 0329702303
 - 📧 Email: vietplq@gmail.com
 - Address: 58 Vo Van Tan, Thanh Khe, Da Nang
@@ -19,4 +19,4 @@ You can click the Preview link to take a look at your changes.
 - Github: [Github.com/Donaldvn1515](https://github.com/DonaldVN1515)
 - Website: [Donaldvn-profile](https://donaldvn-profile.vercel.app/)
 
-#### Nice to meet you ❤️
+### Nice to meet you ❤️
