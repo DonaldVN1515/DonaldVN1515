@@ -6,6 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 ## 💞️ About me:
 👋 Hi! My name is Quoc Viet, I'm a creative designer and front-end web developer. I really enjoy creating wonderful designs and solutions for websites. I'd love to work with you, too! ❤️
+
 🌱 Since my mother bought a new laptop for my brother, I have had a deep fascination for computers. From here, I'd like to study and work with it. For the same reason, I kept up with the programming profession to advance and develop more new skills.
 
 ![Alt text](https://media0.giphy.com/media/L8K62iTDkzGX6/giphy.gif)
