@@ -13,7 +13,6 @@ You can click the Preview link to take a look at your changes.
 ![Alt text](https://cdn.dribbble.com/users/2287419/screenshots/14115184/media/7c632f195496c28994cc7453fe6c76d2.gif)
 
 ## 📫 Contact me: 
-- 📞 Phone: 0329702303
 - 📧 Email: vietplq@gmail.com
 - Address: 58 Vo Van Tan, Thanh Khe, Da Nang
 - Facebook: [Fb.com/Quocviet1515](https://www.facebook.com/QuocViet1515/)
