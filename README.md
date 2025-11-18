@@ -15,8 +15,5 @@ You can click the Preview link to take a look at your changes.
 ## 📫 Contact me: 
 - 📧 Email: vietplq@gmail.com
 - Address: 58 Vo Van Tan, Thanh Khe, Da Nang
-- Facebook: [Fb.com/Quocviet1515](https://www.facebook.com/QuocViet1515/)
-- Github: [Github.com/Donaldvn1515](https://github.com/DonaldVN1515)
-- Website: [Donaldvn-profile](https://donaldvn-profile.vercel.app/)
 
 ### Nice to meet you ❤️
